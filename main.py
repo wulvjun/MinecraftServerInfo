@@ -32,4 +32,3 @@ server_ip = input ("服务器IP:");
 if __name__ =='__main__':
     app = mcstatus(server_ip,25565)
     print (app.getserverinfo())
-# mc.66ko.cc
